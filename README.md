@@ -1,2 +1,2 @@
 # ToxinB
-These are supplementary files for paper 'A gut symbiont-secreted ubiquitin homologue binds and inactivates peptidyl-prolyl isomerase to mediate intraspecies competition'.
+These are the gene assembly and annotation files for Bacteroides fragilis GS077 and GS084
